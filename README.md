@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eldorintv, a Computer Science student!
 - 👀 I’m interested in C++, Java and development in general
-- 🌱 I’m currently learning C++, Java, Python and Scala
+- 🌱 I’m currently learning C++, Java, Python and Rust
 
 I am pretty new here but I am always looking for knowledge :D
 
