@@ -1,12 +1,9 @@
-## Hi, I'm Mario 👋
+### Hi, I'm Mario 👋
 I'm a Computer Science student passionate about **GPU programming** and **High-Performance Computing (HPC)**.  
 
 ### Languages
-- C++, CUDA, Slang, GLSL, Java, Rust, Python, Lua, and a few more  
-
-### Graphics Stack
-- Vulkan (primary)  
-- OpenGL  
+- C++, CUDA, Slang, GLSL, Java, Rust, Python, Lua, and a few more
+- Graphics stack: Vulkan, OpenGL
 
 ### Areas of Interest
 - GPU optimization and parallel computing
